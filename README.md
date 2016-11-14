@@ -3,7 +3,6 @@ A python program that simulates request to a server and handles its response jus
 
 It can use 'GET', 'POST', 'PUT', 'DELETE', 'OPTIONS' or some other http methods. It also can use custom request headers and cookies.
 
-==================
 
 # 中文说明：
 
